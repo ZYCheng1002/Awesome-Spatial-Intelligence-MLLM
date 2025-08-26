@@ -18,20 +18,15 @@ Focus on collecting relevant evaluation benchmarks.
 
 
 ## Methods
-### Image Based
 |              Title              |                    Introduction                    |     Date     |      Code      |    Dataset Open    |  Benchmark  |
 | :-----------------------------: | :------------------------------------------------: | :----------: | :------------: | :----------------: | :---------: |
+| <br/>[RoboBrain 2.0: See Better. Think Harder. Do Smarter.](https://arxiv.org/abs/2507.02029) | <img width="300" alt="image" src="images/RoboBrain2-0.png"> | 2025-8 | [Github](https://github.com/FlagOpen/RoboBrain2.0) | × | × |
+| <br/>[Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/abs/2506.00123) | <img width="300" alt="image" src="images/VeBrain.png"> | 2025-5 | [Github](https://github.com/OpenGVLab/VeBrain) | × | × |
 | <br/>[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2506.04308) | <img width="300" alt="image" src="images/RoboRefer.png"> | 2025-5 | [Github](https://zhoues.github.io/RoboRefer/) | √ | √ |
-
-
-### Video Based
-|              Title              |                    Introduction                    |     Date     |      Code      |    Dataset Open    |  Benchmark  |
-| :-----------------------------: | :------------------------------------------------: | :----------: | :------------: | :----------------: | :---------: |
 | <br/>[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | <img width="300" alt="image" src="images/Cosmos-Reason-1.png"> | 2025-5 | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) | × | √ |
 
 
 ## Dataset
-### Image Based
 |              Title              |                    Introduction                    |     Date     |      Code      |    Benchmark    |
 | :-----------------------------: | :------------------------------------------------: | :----------: | :------------: | :------------: |
 | <br/>[Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets](https://arxiv.org/abs/2505.15517) | <img width="300" alt="image" src="images/Robo2VLM.png"> | 2025-6 | [Github](https://berkeleyautomation.github.io/robo2vlm/) | √ |
