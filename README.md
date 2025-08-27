@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>Awesome Spatial Intelligence in VLM</h1>
-    <img src=https://img.shields.io/github/stars/ZYCheng1002/Awesome-Spatial-Intelligence-VLM.svg?style=social >
+    <h1>Awesome Spatial Intelligence in MLLM</h1>
+    <img src=https://img.shields.io/github/stars/ZYCheng1002/Awesome-Spatial-Intelligence-MLLM.svg?style=social >
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-This is a collection of research papers about Spatial Intelligence in VLM. 
+This is a collection of research papers about Spatial Intelligence in MLLM. 
 
 If you wish to include your paper, update any details (e.g., code URLs, conference information), or share suggestions, please feel free to submit a pull request, send me an email, or leave a comment in the Issues section. Your input is greatly appreciated!
 
@@ -39,6 +39,7 @@ Focus on collecting relevant evaluation benchmarks.
 ## Benchmarks
 |              Title              |                    Introduction                    |     Date     |      Code      |    SFT Data    |
 | :-----------------------------: | :------------------------------------------------: | :----------: | :------------: | :------------: |
+| <br/>[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](https://arxiv.org/abs/2504.15280) | <img width="300" alt="image" src="images/All-Angles-Bench.png"> | 2025-8 | [Github](https://github.com/Chenyu-Wang567/All-Angles-Bench/tree/main) | × |
 | <br/>[Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171) | <img width="300" alt="image" src="images/VSI.png"> | 2025-7 | [Github](https://github.com/vision-x-nyu/thinking-in-space) | × |
 | <br/>[Embodied Reasoning QA Evaluation Dataset](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | <img width="300" alt="image" src="images/ERQA.png"> | 2025-5 | [Github](https://github.com/embodiedreasoning/ERQA) | × |
 | <br/>[SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models](https://arxiv.org/abs/2412.07755) | <img width="300" alt="image" src="images/SAT.png"> | 2025-4 | [Github](https://github.com/arijitray1993/SAT) | √ |
