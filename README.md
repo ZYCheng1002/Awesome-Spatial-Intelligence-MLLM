@@ -25,6 +25,8 @@ Focus on collecting relevant evaluation benchmarks.
 | <br/>[Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/abs/2506.00123) | <img width="300" alt="image" src="images/VeBrain.png"> | 2025-5 | [Github](https://github.com/OpenGVLab/VeBrain) | × | × |
 | <br/>[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2506.04308) | <img width="300" alt="image" src="images/RoboRefer.png"> | 2025-5 | [Github](https://zhoues.github.io/RoboRefer/) | √ | √ |
 | <br/>[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | <img width="300" alt="image" src="images/Cosmos-Reason-1.png"> | 2025-5 | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) | × | √ |
+| <br/>[From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation (Embodied-FSD)](https://arxiv.org/pdf/2505.08548) | <img width="300" alt="image" src="images/Embodied-FSD.png"> | 2025-5 | [Github](https://github.com/pickxiguapi/Embodied-FSD) | √ | × |
+| <br/>[SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models (NeurIPS'24)](https://arxiv.org/abs/2406.01584) | <img width="300" alt="image" src="images/SpatialRGPT.png"> | 2024-12 | [Github](https://github.com/AnjieCheng/SpatialRGPT) | √ | × |
 
 
 ## Dataset
