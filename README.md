@@ -16,6 +16,10 @@ Focus on collecting datasets related to spatial intelligence. Some may involve S
 * Benchmark  
 Focus on collecting relevant evaluation benchmarks.
 
+## Survey
+|              Title              |      Date       |       Note       |
+| :-----------------------------: | :-------------: | :--------------: |
+| <br/>[Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/pdf/2407.06886) | 2025-9 | Robot |
 
 ## Methods
 |              Title              |    Date     |      Code      |      Note      |
