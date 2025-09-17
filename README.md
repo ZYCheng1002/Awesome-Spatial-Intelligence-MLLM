@@ -29,6 +29,7 @@ Focus on collecting relevant evaluation benchmarks.
 | <br/>[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) | 2025-8 | [Github](https://github.com/pickxiguapi/Embodied-R1) | Robot |
 | <br/>[Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/abs/2506.00123) | 2025-5 | [Github](https://github.com/OpenGVLab/VeBrain) | Robot |
 | <br/>[RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2506.04308) | 2025-5 | [Github](https://zhoues.github.io/RoboRefer/) | Robot |
+| <br/>[Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) | 2025-5 | [Github](https://github.com/diankun-wu/Spatial-MLLM) | 3D |
 | <br/>[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-5 | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) | - |
 | <br/>[From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation (Embodied-FSD)](https://arxiv.org/pdf/2505.08548) | 2025-5 | [Github](https://github.com/pickxiguapi/Embodied-FSD) | Robot |
 | <br/>[SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models (NeurIPS'24)](https://arxiv.org/abs/2406.01584) | 2024-12 | [Github](https://github.com/AnjieCheng/SpatialRGPT) | - |
